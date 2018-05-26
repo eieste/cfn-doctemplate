@@ -21,5 +21,5 @@ You can link to :cfn:res:`ec2instance:EC2Instance`
 Indices and tables
 ==================
 
-* :ref:`cfn`
+* `Cloudformation Index <./cfn-cfn.html>`_
 * :ref:`search`
