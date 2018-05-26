@@ -15,12 +15,11 @@ Welcome to cfn-doctemplate's documentation!
 Reference something
 ===================
 
-You can link to :ref:`EC2Instance`
+You can link to :cfn:res:`ec2instance:EC2Instance`
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
+* :ref:`cfn`
 * :ref:`search`
